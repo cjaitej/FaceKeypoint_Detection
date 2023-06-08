@@ -2,4 +2,4 @@
 
 Output:
 
-![loss](https://github.com/cjaitej/FaceKeypoint_Detection/blob/main/loss.png)
+![loss](https://github.com/cjaitej/FaceKeypoint_Detection/blob/main/Loss/loss.png)
